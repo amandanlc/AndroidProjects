@@ -1,11 +1,11 @@
-package com.example.brenoroom.repository.dao
+package com.example.AmandaRoom.repository.dao
 
 import androidx.room.Dao
 import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.Query
 import androidx.room.Update
-import com.example.brenoroom.model.UsuarioModel
+import com.example.AmandaRoom.model.UsuarioModel
 
 @Dao
 interface UsuarioDao {
