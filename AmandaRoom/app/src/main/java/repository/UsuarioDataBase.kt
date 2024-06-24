@@ -44,14 +44,14 @@
 //
 //}
 
-package com.example.brenoroom.repository
+package com.example.AmandaRoom.repository
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.example.brenoroom.model.UsuarioModel
-import com.example.brenoroom.repository.dao.UsuarioDao
+import com.example.AmandaRoom.model.UsuarioModel
+import com.example.AmandaRoom.repository.dao.UsuarioDao
 
 @Database(entities = [UsuarioModel::class], version = 1)
 abstract class UsuarioDataBase : RoomDatabase() {
