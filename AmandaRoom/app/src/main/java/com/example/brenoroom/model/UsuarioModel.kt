@@ -1,4 +1,4 @@
-package com.example.brenoroom.model
+package com.example.AmandaRoom.model
 
 //Faz as importações das classes necessárias para se criar as entidades:
 import androidx.room.ColumnInfo
