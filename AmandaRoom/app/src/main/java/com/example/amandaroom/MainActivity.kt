@@ -3,8 +3,8 @@ package com.example.AmandaRoom
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import com.example.AmandaRoom.model.UsuarioModel
-import com.example.AmandaRoom.repository.UsuarioDataBase
+import com.example.amandaroom.model.UsuarioModel
+import com.example.amandaroom.repository.UsuarioDataBase
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
