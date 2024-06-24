@@ -1,4 +1,4 @@
-package com.example.brenoroom
+package com.example.amandaroom
 
 import org.junit.Test
 
