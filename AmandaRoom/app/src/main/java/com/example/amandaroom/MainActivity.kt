@@ -1,4 +1,4 @@
-package com.example.AmandaRoom
+package com.example.amandaroom
 
 import android.os.Bundle
 import android.util.Log
