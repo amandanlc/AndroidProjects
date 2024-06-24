@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.jrwallet"
+    namespace = "com.example.amandaroom"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.jrwallet"
+        applicationId = "com.example.amandaroom"
         minSdk = 30
         targetSdk = 34
         versionCode = 1
